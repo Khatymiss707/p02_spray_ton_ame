@@ -12,20 +12,19 @@ Faire découvrir au monde l'importance des arts et l'expressivité unique de cha
 
 ## Moodboard Visuel
 ![moodboard_visuel (1)](https://github.com/user-attachments/assets/de05b0f3-c3d5-4591-b19e-b4cf11e4c359)
-Intention visuel: Esthétique dynamique, cyberpunk et techno, mise en premier plan des dessins illuminés (jouer avec le fait que c'est numérique avec l'effet de lumière) dans un environnement sombre. 
+Intention visuel: Esthétique dynamique, cyberpunk et néon, mise en premier plan des dessins illuminés (jouer avec le fait que c'est numérique avec l'effet de lumière) dans un environnement sombre. 
 
 ## Moodboard Sonore
 ![moodboard_sono](https://github.com/user-attachments/assets/7fa68336-78b2-4fcb-b4a2-ed76a3680ad2)
-Intention sonore: 
+Intention sonore: Créer un environnement amusant et dynamique pour garder un sentiment positif autour du projet. </br>
 Inspiration direct: [Lien Spotify Playlist]()
 
 ## Narration visuelle 
 ![schema_mise_en_scene 1](https://github.com/user-attachments/assets/938be03a-7034-480c-9dd5-43f1e9982148)
-Description détaillé: identifier les bonbonnes pour interactivité plus que 1 personne a la foi, decrire et ajouter les details specifique sur linstallation, 
+Description détaillé: //identifier les bonbonnes pour interactivité plus que 1 personne a la foi, haut parleurs, cameéra, codes qr, caisses lait, menu intéractif, bobonnes avec noms descriptif, tapis, lumière, projecteur, // 
 
-Schéma DRAW.IO: </br>
+## Schéma DRAW.IO sur l'intéractivité attendue</br>
 ![image](https://github.com/user-attachments/assets/f0695e04-e1d4-4346-ace2-adbf14962491)
-
 
 ## Exemples concrets 
 ![exemple_concrets](https://github.com/user-attachments/assets/58a0dbc7-16c8-420a-8d56-3f3b76983f81)
@@ -34,8 +33,6 @@ Inspiration direct: [Lien Lichtfaktor](https://lichtfaktor.com/en/portfolio/luma
 
 ## Outils/Logiciels techniques 
 Arduino, QLC+, Touch Designer (Ui interface), Spotify (pour la musique), OBS Studio 
-
-## Feedbacks sur la conceptualisation du projet
 
 
 
