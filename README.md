@@ -7,14 +7,14 @@ Programme de dessin avec style graffiti numérique. Une projection sur un mur qu
 ## Objectif narratif/public cible 
 Laisser les gens de tout âges s'exprimer pour soi et pour les autres avec un méthode inconventionnelle et non-disruptif. Pas de lignes désignés, pas de restrictions, pas de limites pour les utilisateurs. 
 
-## Message personnelle
+## Message personnel
 Faire découvrir au monde l'importance des arts et l'expressivité unique de chaque personne, se battre contre le IA et la transformation de toutes oeuvres en art qui est appréciée malgré le degré de talent. 
 
 ## Moodboard Visuel
 ![moodboard_visuel (1)](https://github.com/user-attachments/assets/de05b0f3-c3d5-4591-b19e-b4cf11e4c359)
 Intention visuel: Esthétique dynamique, cyberpunk et néon, mise en premier plan des dessins illuminés (jouer avec le fait que c'est numérique avec l'effet de lumière) dans un environnement sombre. 
 
-## Moodboard Sonore
+## Moodboard sonore
 ![moodboard_sono](https://github.com/user-attachments/assets/7fa68336-78b2-4fcb-b4a2-ed76a3680ad2)
 Intention sonore: Créer un environnement amusant et dynamique pour garder un sentiment positif autour du projet. </br>
 Inspiration direct: [Lien Spotify Playlist]()
