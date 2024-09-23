@@ -40,9 +40,11 @@ Inspiration direct: [Lien Lichtfaktor](https://lichtfaktor.com/en/portfolio/luma
 - Touch Designer (Ui interface)
 - Spotify (pour la musique)
 - OBS Studio
-- Capteurs de distance
-- Bluetooth boutons implimentés dans bonbonnes 
 - Caméra avec connecteur HDMI
 - QR CODE generator (Adobe)
 - Projecteur
 - Écran TBI géant pour la détection de présence et de suivi
+
+Élément Bonbonne de peinture artificiel
+- Capteurs de distance
+- Boutons implimentés pour l'activer
