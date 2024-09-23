@@ -21,10 +21,13 @@ Inspiration direct: [Lien Spotify Playlist]()
 
 ## Narration visuelle 
 ![schema_mise_en_scene 1](https://github.com/user-attachments/assets/938be03a-7034-480c-9dd5-43f1e9982148)
-Description détaillé: //identifier les bonbonnes pour interactivité plus que 1 personne a la foi, haut parleurs, cameéra, codes qr, caisses lait, menu intéractif, bobonnes avec noms descriptif, tapis, lumière, projecteur, // 
 
 ## Schéma DRAW.IO sur l'intéractivité attendue</br>
-![image](https://github.com/user-attachments/assets/f0695e04-e1d4-4346-ace2-adbf14962491)
+![image](https://github.com/user-attachments/assets/f0695e04-e1d4-4346-ace2-adbf14962491)</br>
+Installation et ses règlements:
+- 2 personnes maximum
+- Pas oublier de peser le bouton de re-initialisation pour afficher les options d'enregistrement
+- Approcher les bonbonnes à 5 centimètres pour que le capteur fonctionne. 
 
 ## Exemples concrets 
 ![exemple_concrets](https://github.com/user-attachments/assets/58a0dbc7-16c8-420a-8d56-3f3b76983f81)
@@ -32,7 +35,14 @@ Inspiration: platformes de jeux vidéos, programmes désignés pour le dessin, p
 Inspiration direct: [Lien Lichtfaktor](https://lichtfaktor.com/en/portfolio/luma-paint-interactive-light-graffiti/)
 
 ## Outils/Logiciels techniques 
-Arduino, QLC+, Touch Designer (Ui interface), Spotify (pour la musique), OBS Studio 
-
-
-
+- Arduino
+- QLC+
+- Touch Designer (Ui interface)
+- Spotify (pour la musique)
+- OBS Studio
+- Capteurs de distance
+- Bluetooth boutons implimentés dans bonbonnes 
+- Caméra avec connecteur HDMI
+- QR CODE generator (Adobe)
+- Projecteur
+- Écran TBI géant pour la détection de présence et de suivi
