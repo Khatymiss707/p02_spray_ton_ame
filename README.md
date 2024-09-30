@@ -43,8 +43,8 @@ Inspiration direct: [Lien Lichtfaktor](https://lichtfaktor.com/en/portfolio/luma
 - Caméra avec connecteur HDMI
 - QR CODE generator (Adobe)
 - Projecteur
-- Écran TBI géant pour la détection de présence et de suivi
+- (Écran TBI géant pour la détection de présence et de suivi)?
 
 Élément Bonbonne de peinture artificiel
-- Capteurs de distance
+- Capteurs de distance laser (EDS-C – Capteur de distance)?
 - Boutons implimentés pour l'activer
