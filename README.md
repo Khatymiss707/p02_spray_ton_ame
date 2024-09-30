@@ -17,7 +17,7 @@ Intention visuel: Esthétique dynamique, cyberpunk et néon, mise en premier pla
 ## Moodboard sonore
 ![moodboard_sono](https://github.com/user-attachments/assets/7fa68336-78b2-4fcb-b4a2-ed76a3680ad2)
 Intention sonore: Créer un environnement amusant et dynamique pour garder un sentiment positif autour du projet. </br>
-Inspiration direct: [Lien Spotify Playlist]()
+Inspiration direct: [Lien Spotify Playlist](https://open.spotify.com/playlist/37i9dQZF1EQnqst5TRi17F?si=ggrzNzQbQ-aHTC67Y0MiRA)
 
 ## Narration visuelle 
 ![schema_mise_en_scene 1](https://github.com/user-attachments/assets/938be03a-7034-480c-9dd5-43f1e9982148)
