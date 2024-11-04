@@ -77,6 +77,7 @@ Fournis par l'artiste (moi)
 | Lampe USB          | x1 |
 
 m5 dial
+https://www.amazon.ca/-/fr/Fisheye-infrarouge-bo%C3%AEtier-Raspberry-Windows/dp/B07DWWSWNH/ref=sr_1_6?__mk_fr_CA=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=28VCJDFA90QAY&dib=eyJ2IjoiMSJ9.0-fCkNR6LwbX_wGfJJ0wFv9BbHTYH1UWOBNe29IC1nLhROQMFXwswIKwGpc_fg6EIYivtTCpik7Oqhe8K-r-nws8chOJ_IbP2BfDzpgiQK0Ib4HT1pFp1RI-Z5wokdDD4wklPPSe5Tszsz2FXW6oNqDc-XKL1CMiU-GxJ-FdX5lNLA3w9M_FFkIZO5wxWUYXOlAF6d5FV0HK-YqBU0e92sugrNiHGkOU6a7fpiqDm7x6FJILtEcXejXxgPj-Q4r6-ZHL6AucvgtE3ykVnYgyiXdCEOlT32KMITeQkjTW1is.YNXNRCAn6_sW2a93A9UpmaxiOJKmHIYo1OJ88jM2ONg&dib_tag=se&keywords=camera+infrarouge+wide&qid=1730754290&s=hi&sprefix=camera+infrarouge+wide%2Ctools%2C52&sr=1-6
 
 Fournis par la production/l'exposition
 | Item              | Quantité |
