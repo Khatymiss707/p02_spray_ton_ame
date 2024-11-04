@@ -73,8 +73,10 @@ Fournis par l'artiste (moi)
 | Tapis décoratif     | x1 |
 | Écran infrarouge 2Mx4M | x1 |
 | Cable Ethernet 50'     | x1 |
-| Bombes Aérosol     | x6 |
+| Bombes Aérosol     | x1 |
 | Lampe USB          | x1 |
+
+m5 dial
 
 Fournis par la production/l'exposition
 | Item              | Quantité |
