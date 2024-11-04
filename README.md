@@ -49,6 +49,7 @@ Inspiration direct: [Lien Lichtfaktor](https://lichtfaktor.com/en/portfolio/luma
 
 ## SIMULATION
 ![schema_mise_en_scene 1](https://github.com/user-attachments/assets/938be03a-7034-480c-9dd5-43f1e9982148)
+![schemaaerosol](https://github.com/user-attachments/assets/a73440a7-2298-4edb-87be-7d9c942a108c)
 
 ## SCÉNARIMAGE
 ![schemaanimationveille](https://github.com/user-attachments/assets/55ba029f-57d9-4cc5-9764-f144a0e8894f)
