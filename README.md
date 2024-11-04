@@ -68,7 +68,6 @@ Fournis par l'artiste (moi)
 | Appareil Photo      | x1 |
 | Lentille caméra     | x1 |
 | Trépied de caméra   | x1 |
-| Carte SIM 1TB       | x1 |
 | Extensions cables USB  | x2 |
 | Ordinateur portable | x1 |
 | Tapis décoratif     | x1 |
