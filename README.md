@@ -38,7 +38,7 @@ Inspiration direct: [Lien Lichtfaktor](https://lichtfaktor.com/en/portfolio/luma
 - Capteurs de distance laser (EDS-C – Capteur de distance)
 - Laser infrarouge
 - Capteurs LED
-- Boutons implimentés pour l'activer
+- Boutons wireless implimentés pour l'activer
 
 ## SCHÉMA CONNEXIONS
 ![schema_connexion (1)](https://github.com/user-attachments/assets/d1748a18-3744-40ca-9fb9-c8e1e22264b1)
